@@ -1,0 +1,3 @@
+# generator
+
+Slowly developing exercise pastime...
